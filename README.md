@@ -1,10 +1,11 @@
-# Nome do meu projeto
+# Portifólio Dev
 
-Rápida descrição do objetivo de fazer esse projeto
+VitrineDev contendo projetos realizados durante a formação no programa ONE da Alura + Oracle.
+Front-end | Back-and | Oracle Cloud Infrastructure | Python, Data Science no OCI e Oracle Analytics | SQL com MySQL Server da Oracle
 
 | :placard: Vitrine.Dev |     |
 | -------------  | --- |
-| :sparkles: Nome        | **Titulo do meu projeto**
+| :sparkles: Nome        | **Portifólio Dev**
 | :label: Tecnologias | java, html, ruby, c# (tecnologias utilizadas)
 | :rocket: URL         | https://url-deploy.com.br
 | :fire: Desafio     | https://url-do-desafio.com.br
